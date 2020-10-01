@@ -1,0 +1,37 @@
+.Net is a platform
+------------------
+1.Console Apps
+2.Browser Apps(Web Apps)
+3.Windows Apps(Desktop Apps)
+4.Service Apps(Rest APIs)
+5.Mobile Apps
+
+1. .Net Framework
+2. .Net Core
+
+Class
+-----
+A class is a template or Blueprint.
+A class is a collection of class-members
+class-members
+------------
+variables(class-variables)
+methods
+constructors
+properties
+
+MSIL(Microsoft Intermedirate Language)
+.exe and .dll
+Namespace Members(Library or Assembly)
+---------------
+1.classes
+2.Interfaces
+3.Structures
+4.Delegates
+
+Access Specifiers
+----------------
+public
+private
+protected
+internal
