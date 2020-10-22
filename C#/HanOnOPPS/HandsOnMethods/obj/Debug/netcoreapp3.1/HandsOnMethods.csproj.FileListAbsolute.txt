@@ -1,0 +1,13 @@
+D:\OnlineBatch\Dotnet-Batch-2\C#\HanOnOPPS\HandsOnMethods\bin\Debug\netcoreapp3.1\HandsOnMethods.exe
+D:\OnlineBatch\Dotnet-Batch-2\C#\HanOnOPPS\HandsOnMethods\bin\Debug\netcoreapp3.1\HandsOnMethods.deps.json
+D:\OnlineBatch\Dotnet-Batch-2\C#\HanOnOPPS\HandsOnMethods\bin\Debug\netcoreapp3.1\HandsOnMethods.runtimeconfig.json
+D:\OnlineBatch\Dotnet-Batch-2\C#\HanOnOPPS\HandsOnMethods\bin\Debug\netcoreapp3.1\HandsOnMethods.runtimeconfig.dev.json
+D:\OnlineBatch\Dotnet-Batch-2\C#\HanOnOPPS\HandsOnMethods\bin\Debug\netcoreapp3.1\HandsOnMethods.dll
+D:\OnlineBatch\Dotnet-Batch-2\C#\HanOnOPPS\HandsOnMethods\bin\Debug\netcoreapp3.1\HandsOnMethods.pdb
+D:\OnlineBatch\Dotnet-Batch-2\C#\HanOnOPPS\HandsOnMethods\obj\Debug\netcoreapp3.1\HandsOnMethods.csprojAssemblyReference.cache
+D:\OnlineBatch\Dotnet-Batch-2\C#\HanOnOPPS\HandsOnMethods\obj\Debug\netcoreapp3.1\HandsOnMethods.AssemblyInfoInputs.cache
+D:\OnlineBatch\Dotnet-Batch-2\C#\HanOnOPPS\HandsOnMethods\obj\Debug\netcoreapp3.1\HandsOnMethods.AssemblyInfo.cs
+D:\OnlineBatch\Dotnet-Batch-2\C#\HanOnOPPS\HandsOnMethods\obj\Debug\netcoreapp3.1\HandsOnMethods.csproj.CoreCompileInputs.cache
+D:\OnlineBatch\Dotnet-Batch-2\C#\HanOnOPPS\HandsOnMethods\obj\Debug\netcoreapp3.1\HandsOnMethods.dll
+D:\OnlineBatch\Dotnet-Batch-2\C#\HanOnOPPS\HandsOnMethods\obj\Debug\netcoreapp3.1\HandsOnMethods.pdb
+D:\OnlineBatch\Dotnet-Batch-2\C#\HanOnOPPS\HandsOnMethods\obj\Debug\netcoreapp3.1\HandsOnMethods.genruntimeconfig.cache
