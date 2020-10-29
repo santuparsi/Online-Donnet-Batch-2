@@ -1,0 +1,31 @@
+Inheritance
+----------
+It a feature of oops
+It allows to use one class members in another class
+In c# the class which inherited is called as base class or parent class or super class
+and the class which is inheriting is called as derived class or child class or sub class.
+Class A
+{
+//members
+}
+Class B:A
+{
+
+}
+Clsss B only access public,internal and protected members of Class A
+Class B object can access only public and internal members of Class A
+
+Types
+-----
+Single
+Multilevel
+hierarchical
+Multiple(not supported by c#)
+class A
+{
+}
+class B{}
+class C:A,B
+{
+}
+Hybrid(not supported by c#)(Multiple+Multilevel)

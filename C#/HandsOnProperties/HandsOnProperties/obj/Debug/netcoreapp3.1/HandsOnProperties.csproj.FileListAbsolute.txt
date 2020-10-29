@@ -1,0 +1,13 @@
+D:\OnlineBatch\Dotnet-Batch-2\C#\HandsOnProperties\HandsOnProperties\bin\Debug\netcoreapp3.1\HandsOnProperties.exe
+D:\OnlineBatch\Dotnet-Batch-2\C#\HandsOnProperties\HandsOnProperties\bin\Debug\netcoreapp3.1\HandsOnProperties.deps.json
+D:\OnlineBatch\Dotnet-Batch-2\C#\HandsOnProperties\HandsOnProperties\bin\Debug\netcoreapp3.1\HandsOnProperties.runtimeconfig.json
+D:\OnlineBatch\Dotnet-Batch-2\C#\HandsOnProperties\HandsOnProperties\bin\Debug\netcoreapp3.1\HandsOnProperties.runtimeconfig.dev.json
+D:\OnlineBatch\Dotnet-Batch-2\C#\HandsOnProperties\HandsOnProperties\bin\Debug\netcoreapp3.1\HandsOnProperties.dll
+D:\OnlineBatch\Dotnet-Batch-2\C#\HandsOnProperties\HandsOnProperties\bin\Debug\netcoreapp3.1\HandsOnProperties.pdb
+D:\OnlineBatch\Dotnet-Batch-2\C#\HandsOnProperties\HandsOnProperties\obj\Debug\netcoreapp3.1\HandsOnProperties.csprojAssemblyReference.cache
+D:\OnlineBatch\Dotnet-Batch-2\C#\HandsOnProperties\HandsOnProperties\obj\Debug\netcoreapp3.1\HandsOnProperties.AssemblyInfoInputs.cache
+D:\OnlineBatch\Dotnet-Batch-2\C#\HandsOnProperties\HandsOnProperties\obj\Debug\netcoreapp3.1\HandsOnProperties.AssemblyInfo.cs
+D:\OnlineBatch\Dotnet-Batch-2\C#\HandsOnProperties\HandsOnProperties\obj\Debug\netcoreapp3.1\HandsOnProperties.csproj.CoreCompileInputs.cache
+D:\OnlineBatch\Dotnet-Batch-2\C#\HandsOnProperties\HandsOnProperties\obj\Debug\netcoreapp3.1\HandsOnProperties.dll
+D:\OnlineBatch\Dotnet-Batch-2\C#\HandsOnProperties\HandsOnProperties\obj\Debug\netcoreapp3.1\HandsOnProperties.pdb
+D:\OnlineBatch\Dotnet-Batch-2\C#\HandsOnProperties\HandsOnProperties\obj\Debug\netcoreapp3.1\HandsOnProperties.genruntimeconfig.cache

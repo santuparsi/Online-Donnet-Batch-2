@@ -1,0 +1,6 @@
+class members
+-------------
+variables
+consturctors
+methods
+properties:are using to set and get values to private variables.properties also use to validate variable values.
